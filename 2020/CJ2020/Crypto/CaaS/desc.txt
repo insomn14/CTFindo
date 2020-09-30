@@ -10,4 +10,3 @@ pJ8GmKrvZS0dO3LPfcvjXrbIRusaEF/wb/Ps8ENwmH0fvkcIau74mSnZPwBvbyMeXyUrAvDBY+Mcazts
 Anda harus mendapatkan plain text dari flag tersebut.
 
 nc net.cyber.jawara.systems 3001
-
