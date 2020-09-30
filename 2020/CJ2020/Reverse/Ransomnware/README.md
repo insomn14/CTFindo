@@ -102,7 +102,7 @@ undefined8 main(undefined8 argc, char **argv)
     ...
 ```
 
-Setelah binary mengload file `flag.txt` dan `flag.txt.enc`, program memanggil fungsi `randomVal(RandArr);` yang mana variabel `RandArr` akan menyimpan nilai random sepanjang 32 byte dari `/dev/urandom`.
+Setelah binary memuat file `flag.txt` dan `flag.txt.enc`, program memanggil fungsi `randomVal(RandArr);` yang mana variabel `RandArr` akan menyimpan nilai random sepanjang 32 byte dari `/dev/urandom`.
 
 Berikutnya fungsi `fillArr();` akan membuat sebuah array yang memiliki nilai 0 s/d 255 dan disimpan pada `FillArray`. 
 
@@ -171,7 +171,7 @@ Cara untuk mendekripsi :
    
    **Catatan: selamat kita telah berhasil mengembalikan [*flag*](flag.txt.enc) seperti semula*
 
-Berikut ini adalah PoC dari [solver](solver.py) saya.
+Berikut ini adalah hasil dari [solver](solver.py) saya.
 ```
 ┌──(unknow㉿unknow)-[~/…/2020/CJ2020/Reverse/Ransomnware]
 └─$ python solver.py 
