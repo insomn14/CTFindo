@@ -3,7 +3,6 @@ from Crypto.Cipher import AES
 from CTFInternal import key, iv
 import sys
 
-
 class Service:
     def __init__(self):
         self.aes_obj = AES.new(key, AES.MODE_OFB, iv)
