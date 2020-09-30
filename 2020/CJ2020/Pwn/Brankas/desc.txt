@@ -24,4 +24,3 @@ Sebagai contoh, misalnya PIN untuk lapisan 1 brankas adalah 50123. Interaksinya 
     Lapisan 1 terbuka
 
 nc pwn.cyber.jawara.systems 13374
-
