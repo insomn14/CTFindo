@@ -2,14 +2,14 @@
 
 # BabyBaby
 
-### Deskripsi
+### Description
 ```
 Binary ini dapat digunakan untuk permulaan belajar reverse engineering.
 
 Tips: Soal ini lebih mudah dikerjakan dengan static analysis seperti menggunakan Ghidra (gratis) atau IDA Pro (berbayar) dengan meng-generate kode C-like dari kode mesin yang ada di dalam binary.
 ```
 
-
+### Problem
 Pada tantangan ini kita diberikan file binary *[BabyBaby](BabyBaby)*, dan berikut ini adalah pseudocode dari fungsi main program tersebut.
 
 ```
@@ -47,8 +47,7 @@ if ((first + third == second * first)
 Seperti yang kita lihat `scanf` menerima 3 masukan sebagai integer, masing-masing masukan akan dihitung dalam kondisi `if`. jika hasilnya `true` maka
 program akan mencetak string *"Benar"* dan juga *Flag*.
 
-### Solusi
-
+### Solution
 Untuk menyelesaikan tantangan ini kita dapat menggunakan library python z3-solver.
 
 ```
