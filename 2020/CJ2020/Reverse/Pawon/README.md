@@ -2,11 +2,12 @@
 
 # Pawon
 
-### Deskripsi
+### Description
 ```
 Yet another reverse engineering challenge
 ```
 
+### Problem
 Pada tantangan berikut ini kita diberikan file binary *[pawon](pawon)*, dan berikut ini adalah potongan pseudocode kode dari fungsi `main` program tersebut yang sudah saya modif sedikit.
 
 ```
@@ -127,8 +128,7 @@ code_r0x0000138d:
 
 Bagian ini adalah pengecekan dari inputan *Serial*.
 
-### Solusi
-
+### Solution
 Sama seperti tantangan *BabyBaby* yang sebelumnya, untuk menyelesaikan tantangan ini kita dapat menggunakan library python z3-solver.
 
 [solver.py](solver.py)
