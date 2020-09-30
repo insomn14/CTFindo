@@ -59,7 +59,7 @@ Q0oyMDIwezIyMUJfQmFrZXJfU3RyMzN0fQo
 ```
 Pada saat kami melihat fungsi main dengan tampilan kode disassembly pada radare2, kita dapat melihat dengan jelas terdapat sebuah string yang aneh.
 
-### Solution
+### Solusi
 
 Dari informasi yang sudah kita dapat sebelumnya selama melakukan static analysis, terdapat dua cara untuk menyelesaikan tantangan ini.
 

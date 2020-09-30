@@ -127,7 +127,7 @@ code_r0x0000138d:
 
 Bagian ini adalah pengecekan dari inputan *Serial*.
 
-### Solution
+### Solusi
 
 Sama seperti tantangan *BabyBaby* yang sebelumnya, untuk menyelesaikan tantangan ini kita dapat menggunakan library python z3-solver.
 

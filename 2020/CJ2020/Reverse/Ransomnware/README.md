@@ -155,7 +155,7 @@ Selanjutnya terdapat pemanggialn fungsi `fillArr();` dan `procSwap(RandArr,var_1
 
 Berikutnya terdapat looping dimana `buf` akan menyimpan setiap 1byte dari `Flag._4_4_`. Kemudian `buf` di XOR dengan `var_25h` yang nilainya didapat dari `getValFromArr();`, hasil calculated `buf` dan `var_25h` akan ditulis pada `FlagEnc`.
 
-### Solution
+### Solusi
 
 Cara untuk mendekripsi :
 

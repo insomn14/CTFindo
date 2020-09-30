@@ -47,7 +47,7 @@ if ((first + third == second * first)
 Seperti yang kita lihat `scanf` menerima 3 masukan sebagai integer, masing-masing masukan akan dihitung dalam kondisi `if`. jika hasilnya `true` maka
 program akan mencetak string *"Benar"* dan juga *Flag*.
 
-### Solution
+### Solusi
 
 Untuk menyelesaikan tantangan ini kita dapat menggunakan library python z3-solver.
 
