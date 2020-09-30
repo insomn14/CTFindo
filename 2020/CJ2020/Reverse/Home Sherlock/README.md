@@ -2,7 +2,7 @@
 
 # Home Sherlock
 
-### Deskripsi
+### Description
 ```
 Number Home Sherlock Holmes ?
 
@@ -11,6 +11,7 @@ Please check on the File
 Download home : https://drive.google.com/file/d/14P7xZ4XIsEm6HU5WMvOVw6E0BFRH6CuH/view
 ```
 
+### Problem
 Di tantangan kali ini kita diberikan file binary dari golang [*home*](home). Berikut ini adalah pseudocode dari binary tersebut.
 
 ```
@@ -59,8 +60,7 @@ Q0oyMDIwezIyMUJfQmFrZXJfU3RyMzN0fQo
 ```
 Pada saat kami melihat fungsi main dengan tampilan kode disassembly pada radare2, kita dapat melihat dengan jelas terdapat sebuah string yang aneh.
 
-### Solusi
-
+### Solution
 Dari informasi yang sudah kita dapat sebelumnya selama melakukan static analysis, terdapat dua cara untuk menyelesaikan tantangan ini.
 
 1. Decode *"Q0oyMDIwezIyMUJfQmFrZXJfU3RyMzN0fQo"* kedalam base64.
