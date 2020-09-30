@@ -2,7 +2,7 @@
 
 # Ransomnware
 
-### Deskripsi
+### Description
 
 ```
 Reverse engineering berguna untuk mengetahui alur dari suatu program baik untuk riset binary exploitation, membuat crack/patch, membuat keygen, ataupun analisis malware.
@@ -10,6 +10,7 @@ Reverse engineering berguna untuk mengetahui alur dari suatu program baik untuk 
 Berikut adalah sebuah ransomware yang mengenkripsi berkas flag.txt. Dapatkah Anda mendekripsi berkas tersebut?
 ```
 
+### Problem
 Pada tantangan ini kita diberikan file binary [*ransomnware*](ransomnware) dan juga sebuah file [*flag*](flag.txt.enc) yang telah terenkripsi. Berikut ini adalah potongan-potongan pseudocode dari file binary tersebut.
 
 **Catatan : beberapa nama fungsi dan variabel telah kami ubah agar lebih mudah dibaca.*
@@ -155,8 +156,7 @@ Selanjutnya terdapat pemanggialn fungsi `fillArr();` dan `procSwap(RandArr,var_1
 
 Berikutnya terdapat looping dimana `buf` akan menyimpan setiap 1byte dari `Flag._4_4_`. Kemudian `buf` di XOR dengan `var_25h` yang nilainya didapat dari `getValFromArr();`, hasil calculated `buf` dan `var_25h` akan ditulis pada `FlagEnc`.
 
-### Solusi
-
+### Solution
 Cara untuk mendekripsi :
 
 1. Membuat array[256].
