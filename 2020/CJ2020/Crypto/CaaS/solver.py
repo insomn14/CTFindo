@@ -27,5 +27,4 @@ log.info('ENC FLAG : {}'.format(btl(enc_flag)))
 a1 = xor(enc_flag,iv)
 print(a1)
 
-
 r.interactive()
