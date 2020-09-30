@@ -107,4 +107,3 @@ print(flag)
 
 message = bruteForceKnapsack(flag, publicKey)
 print(message)
-
