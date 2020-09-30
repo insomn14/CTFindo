@@ -2,13 +2,14 @@
 
 # Holmes Code
 
-### Deskripsi
+### Description
 ```
 This Code Secret Dr. Watson to Holmes, Please check message on the Code
 ```
 
 Pada tantangan kali ini kita diberikan file *[code.zip](code.zip)* yang berisi file binary sejumlah *287* file. Berikut ini adalah sedikit potongan disassembly dari beberapa program binary tersebut.
 
+#### Problem
 ```
 ┌──(unknow㉿unknow)-[~/…/CJ2020/Reverse/Holmes Code/code]
 └─$ objdump -d -M intel code0
@@ -46,7 +47,7 @@ Pada tantangan kali ini kita diberikan file *[code.zip](code.zip)* yang berisi f
 
 Setelah diamati ternyata setiap binary memiliki alur kode program yang mmirip, namun masing-masing binary memiliki instruksi aritmatika yang berbeda-beda diantaranya *(add/sub/xor)*.
 
-### Solusi
+### Solution
 
 Langkah-langkah yang perlu dilakukan untuk menyelesaikan tantangan ini:
 1. Membuat [bash script](solve.sh) untuk mengabil potongan kode dissassembly yang dibutuhkan.
