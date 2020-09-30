@@ -1,0 +1,15 @@
+[IDA demo]
+```
+ if ( *v8 == 44400444004440044LL )
+```
+
+```
+~/CTFi/2020/CJ2020/Reverse/Home Sherlock  ./home                                     ✔ 
+Sherlock Holmes Home
+44400444004440044
+Q0oyMDIwezIyMUJfQmFrZXJfU3RyMzN0fQo
+
+ ~/CTFi/202/CJ/R/Home Sherlock  echo 'Q0oyMDIwezIyMUJfQmFrZXJfU3RyMzN0fQo' | base64 -d
+CJ2020{221B_Baker_Str33t}
+base64: invalid input
+```
