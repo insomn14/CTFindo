@@ -10953,3 +10953,4 @@ Gadgets information
 0x000000000040e89e : xor rdx, qword ptr fs:[0x30] ; call rdx
 
 Unique gadgets found: 10951
+
