@@ -9,7 +9,7 @@ This Code Secret Dr. Watson to Holmes, Please check message on the Code
 
 Pada tantangan kali ini kita diberikan file *[code.zip](code.zip)* yang berisi file binary sejumlah *287* file. Berikut ini adalah sedikit potongan disassembly dari beberapa program binary tersebut.
 
-#### Problem
+### Problem
 ```
 ┌──(unknow㉿unknow)-[~/…/CJ2020/Reverse/Holmes Code/code]
 └─$ objdump -d -M intel code0
