@@ -31,13 +31,13 @@ def procSwap(a1, a2):
 
 def execute(Rand, FEnc):
 	global val
-	fill()						# create table array[256] 1..255
-	procSwap(Rand, len(Rand))			# swap array position using stk_rand
-	get = [get_value() for i in range(len(FEnc))]   # get 32 byte value from array table & swap position
+	fill()
+	procSwap(Rand, len(Rand))
+	get = [get_value() for i in range(len(FEnc))]
 	result = xor(FEnc, get)
 	return result
 
 if __name__ == '__main__':
-	urand = execute(stk_rand, enc_flag[:32])	# recovery /dev/urandom
-	flag = execute(urand, enc_flag[32:])		# recovery flag
+	urand = execute(stk_rand, enc_flag[:32])
+	flag = execute(urand, enc_flag[32:])
 	print(flag.decode('utf-8'))
