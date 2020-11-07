@@ -44,7 +44,7 @@ Pada tantangan kali ini kita diberikan file *[code.zip](code.zip)* yang berisi f
   ...
 ```
 
-Setelah diamati ternyata setiap binary memiliki alur kode program yang mmirip, namun masing-masing binary memiliki instruksi aritmatika yang berbeda-beda diantaranya *(add/sub/xor)*.
+Setelah diamati ternyata setiap binary memiliki alur kode program yang mirip, namun masing-masing binary memiliki instruksi aritmatika yang berbeda-beda diantaranya *(add/sub/xor)*.
 
 ### Solution
 Langkah-langkah yang perlu dilakukan untuk menyelesaikan tantangan ini:
