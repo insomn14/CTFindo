@@ -1,0 +1,10 @@
+ECC pop quizzz
+500
+Terinspirasi dari soal RSA quiz di p*coctf, Andi yang senang dengan kriptografi membuat soal dengan modifikasi total! Yaitu dengan mengganti menjadi quiz bertemakan ECC. Dapatkah kamu menjawab soal-soal yg disediakan???
+nc 95.111.196.96 31337
+
+author: Joule
+
+Hint:
+Tidak tau mulai dari mana? mungkin bisa baca notes berikut...
+https://crypto.stanford.edu/pbc/notes/elliptic/

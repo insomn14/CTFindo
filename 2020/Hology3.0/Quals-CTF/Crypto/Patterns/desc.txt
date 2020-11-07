@@ -1,0 +1,10 @@
+Patterns
+472
+Di antara berkas-berkas yang dienkripsi dengan kerahasiaan sempurna ini terdapat flag yang sesungguhnya!
+
+author: Mr. Grips
+
+HinT:
+Apakah dampak dari penggunaan lcg yang tidak tepat?
+
+
