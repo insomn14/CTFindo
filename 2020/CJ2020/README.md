@@ -21,7 +21,7 @@
 
 ## [Reverse](/2020/CJ2020/Reverse)
 - BabyBaby [**Solved**](/2020/CJ2020/Reverse/BabyBaby/README.md)
-- Holmes Code [**Solved**](/2020/CJ2020/Reverse/Homles%20Code/README.md)
+- Holmes Code [**Solved**](/2020/CJ2020/Reverse/Holmes%20Code/README.md)
 - Home Sherlock [**Solved**](/2020/CJ2020/Reverse/Home%20Sherlock/README.md)
 - Koq Error Unsolved
 - Pawon [**Solved**](/2020/CJ2020/Reverse/Pawon/README.md)
