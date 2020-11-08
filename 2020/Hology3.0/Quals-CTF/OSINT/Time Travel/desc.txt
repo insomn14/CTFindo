@@ -1,0 +1,7 @@
+Time Travel
+456
+Seorang peneliti dari Universitas Kolombia mempublikasikan sebuah laporan penelitian bersama teman perempuannya pada 6 juli 2018. Ternyata temannya itu juga bekerja sebagai seorang komedian. Seorang hacker yang mengetahui kesibukannya itu, segera membuat rencana untuk meretas komputernya dan mencuri data datanya pada tanggal 31 januari 2020 pada jam 6 sampai jam 7 malam pada saat peneliti perempuan itu pergi ke suatu acara. Cari tau kemana perginya peneliti itu.
+ flag format: hology3{lokasi_acara}
+note: Flag dibuat lower case & spasi diganti tanda '_'
+
+author: Rifqihz

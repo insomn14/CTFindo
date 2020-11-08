@@ -1,0 +1,12 @@
+Liburan
+265
+Fyuhh... akhirnya si impostor jahat ketahuan juga. Ternyata dia melakukan fake task di tempat itu. Tapi sebelum final vote si impostor jahat memberikan pesan terakhir “temukan wasiatku atau aku akan menghantuimu” . Pada akhirnya si impostor mati dan menjadi arwah gentayangan . Bantulah crewmate agar tidak diganggu impostor jahat...
+
+Format flag: hology3{wasiat}
+
+author: Rifqihz
+
+Hint:
+Apakah wasiat si impostor tertumpuk oleh bintang-bintang dan wasiat-wasiat orang lain tentang tempat itu ?
+
+
