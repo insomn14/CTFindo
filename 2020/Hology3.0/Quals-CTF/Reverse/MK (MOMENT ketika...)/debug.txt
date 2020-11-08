@@ -1,0 +1,38 @@
+rbp-4 = 10
+rbp-8 = 8
+rbp-12 = 5875
+rbp-16 = 19
+
+#-----------------------
+eax = rbp-4 * rbp-8
+eax += eax
+edi = eax
+eax = sqrt(edi)
+rbp-20 = eax
+#-----------------------
+eax = rbp-4 * rbp-416
+eax += eax
+edi = eax
+eax = sqrt(edi)
+rbp-24 = eax
+#-----------------------
+eax = rbp-12 * rbp-20
+rbp-28 = eax
+eax = rbp-12 * rbp-24
+rbp-32 = eax
+eax = rbp-32 - rbp-28
+rbp-36 = eax
+eax = rbp-36 * eax
+rbp-36 = eax
+
+if (rbp-36 < rbp-32): # jle .L2
+	if (rbp-36 > rbp-32): # jge .L3
+		print('exit')
+	eax = (rbp-36 | 17081945) + 177013
+	rbp-36 = eax
+	print(rbp-36)
+	print('JLE')
+eax = (rbp-36 | 19450817) + 177013
+print(eax)
+
+print('FINISH')

@@ -1,0 +1,5 @@
+MK (MOMENT ketika...)
+464
+taTUM adalah seorang fisikawan, suatu hari temannya seorang programmer memberikan sebuah source code yang merupakan jalan pengerjaan sebuah soal fisika, tetapi temannya memodifikasi rumus tersebut sehingga pada bagian akhir program tersebut dia menjahili taTUM dengan menambahkan instruksi yang tidak ada pada rumus aslinya, bantulah taTUM menemukan hasil output dari program tersebut
+format flag : /^hology3{[A-z0-9+_]*}$/
+author: aldifp01
