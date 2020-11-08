@@ -1,0 +1,9 @@
+Lets GO!
+200
+Lets GO catch em all...
+http://206.189.88.224:8084/
+format flag: /^hology3{[A-z0-9+_]*}$/
+
+author: Yukazu
+
+

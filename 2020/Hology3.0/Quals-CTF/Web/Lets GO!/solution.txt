@@ -1,0 +1,6 @@
+>>> sliced = [47, 103, 110, 100, 107, 115, 127, 104, 105, 109, 107, 111, 117, 128, 119, 125, 121]
+>>> 
+>>> ''.join(chr(c-i) for i,c in enumerate(sliced))
+'/flagnyaadadisini'
+>>> exit()
+
