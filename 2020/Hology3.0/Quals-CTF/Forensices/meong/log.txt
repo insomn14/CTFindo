@@ -1,0 +1,17 @@
+871fc3e146ae43398871edb22a3ea70db970c65c c9aabed5ae0d72213e820cef040c34f541ac2526 John <John@john.com> 1601351055 +0700 commit: add password
+c9aabed5ae0d72213e820cef040c34f541ac2526 b6af82b6e4cf4e9eca36e190b312a36c6eabcb10 John <John@john.com> 1601351724 +0700 commit: rm password
+
+~/CTFI/202/Ho/Q/Forensices/meong/Challenge/Ada Orang/.git/logs on @df1c3151 ?1 ❯ git cat-file -p c9aabed5ae0d72213e820cef040c34f541ac2526
+tree 42a50703c8f1ca8a2b3dcbafff2b4bdada16beec
+parent 871fc3e146ae43398871edb22a3ea70db970c65c
+author John <John@john.com> 1601351055 +0700
+committer John <John@john.com> 1601351055 +0700
+
+add password
+~/CTFI/202/Ho/Q/Forensices/meong/Challenge/Ada Orang/.git/logs on @df1c3151 ?1 ❯ git cat-file -t 42a50703c8f1ca8a2b3dcbafff2b4bdada16beec
+tree
+~/CTFI/202/Ho/Q/Forensices/meong/Challenge/Ada Orang/.git/logs on @df1c3151 ?1 ❯ git cat-file -p 42a50703c8f1ca8a2b3dcbafff2b4bdada16beec
+100644 blob c69b9b5717a9e0212ddf972aa5c043a78dd0a2e1    password.txt
+~/CTFI/202/Ho/Q/Forensices/meong/Challenge/Ada Orang/.git/logs on @df1c3151 ?1 ❯ git cat-file -p c69b9b5717a9e0212ddf972aa5c043a78dd0a2e1
+https://mega.nz/file/HJhUBawC#zRbUNo34DOWp5Yd_r9-hh52FuGpyc-BgNGLgbrlZq7U
+

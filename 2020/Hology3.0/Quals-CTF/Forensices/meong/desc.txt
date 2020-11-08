@@ -1,0 +1,11 @@
+meong
+425
+Suatu ketika om Fulan Doe pergi liburan lalu diberi file aneh yang katanya menunjuk ke lokasi harta karun oleh seorang pria pecinta kucing. bantu om Fulan mencari harta karun.
+
+Format flag = hology3{kota1_kota2}
+*nama kota lowercase
+
+author: EmpalGentong
+
+Hint:
+Lihatlah hanya yang ada di depanmu

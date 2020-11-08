@@ -1,0 +1,11 @@
+ ~/CTFIndo/2020/Hology3.0/Quals-CTF/Forensices/redvelvet ❯ python2 ~/src/volatility/vol.py -f Redvelvet --profile=Win7SP0x86 clipboard
+Volatility Foundation Volatility Framework 2.6.1
+Session    WindowStation Format                 Handle Object     Data                                              
+---------- ------------- ------------------ ---------- ---------- --------------------------------------------------
+         1 WinSta0       CF_UNICODETEXT        0x60225 0xfdf11998 NBXWY33HPEZXWRDVNVYF6MKTL5CTIU3ZL5ZDCZ2IOR6Q====  
+         1 WinSta0       CF_LOCALE             0xd01f1 0xfe905490                                                   
+         1 WinSta0       CF_TEXT                   0x1 ----------                                                   
+         1 WinSta0       CF_OEMTEXT                0x1 ---------- 
+
+ ~/CTFIndo/2020/Hology3.0/Quals-CTF/Forensices/redvelvet ❯ echo 'NBXWY33HPEZXWRDVNVYF6MKTL5CTIU3ZL5ZDCZ2IOR6Q====' | base32 -d                                   ✘ 0|1
+hology3{Dump_1S_E4Sy_r1gHt}% 
