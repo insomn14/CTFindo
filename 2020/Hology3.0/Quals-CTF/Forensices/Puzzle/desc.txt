@@ -1,0 +1,7 @@
+Puzzle
+152
+Collect all gym badges and become the champion.
+
+author: rax_3r
+
+

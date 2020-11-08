@@ -1,0 +1,14 @@
+Basic Steg
+500
+Mr. Steg berulah kembali ! kali ini ia mengadakan tantangan terbuka dengan tema “O..Steg..Steg..Steg!”. Untuk mempersulit tantangannya, Mr. Steg menyisipkan ‘sesuatu’ yang tak biasa. Mr.Steg yakin tidak ada yang bisa menyelesaikan ‘tahap pertama’ tantangannya. Selesaikan tantangan Mr. Steg dan dapatkan Flagnya !
+
+Format flag: /^hology3{[A-z0-9_?!]*}$/
+
+author: Rifqihz
+
+Hint:
+Google Images mungkin berguna
+https://docs.fileformat.com/word-processing/docx/
+Steganography Cracking , mungkin tools dari kali linux bisa berguna?
+Very very small zip file ? do you know it?
+
