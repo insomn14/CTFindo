@@ -1,5 +1,5 @@
 from math import sqrt
-from Crypto.Util.number import long_to_bytes
+
 rbp_4 = 10
 rbp_8 = 8
 rbp_12 = 5875
