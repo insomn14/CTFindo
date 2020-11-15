@@ -1,0 +1,7 @@
+Jotunheim
+
+Easy crackme and get your flag
+
+Author: rockwell
+
+['/files/3f6026f5bfdf989a0f4c2da5b4c87f4b/crackme?token=eyJ1c2VyX2lkIjo4NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mzl9.X6-KHg.9FYKpNLTUdawdvBCKz2xtpGGzI8']

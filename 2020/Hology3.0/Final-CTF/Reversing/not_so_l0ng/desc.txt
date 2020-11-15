@@ -1,0 +1,7 @@
+not_so_l0ng
+
+To get the flag, input a number that not too long
+</br>
+Author: aldifp01
+
+['/files/7e0f67e295a34421d4358c01063d5505/not-so-l0ng.tar.gz?token=eyJ1c2VyX2lkIjo4NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzZ9.X69yeg.N0u2cJQkX7k2_XbEfgEYXKta8wY']

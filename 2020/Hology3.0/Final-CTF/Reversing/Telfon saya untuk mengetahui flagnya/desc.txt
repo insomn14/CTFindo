@@ -1,0 +1,9 @@
+Telfon saya untuk mengetahui flagnya
+
+Anda bekerja sebagai penjawab telepon dari setiap panggilan darurat, tentu anda harus cakap dalam berbicara agar orang-orang tidak tersinggung. Setiap harinya ada selalu ada yang menelfon dan terkadang ada juga yang melakukan "Prank Call" kepada anda, mereka juga berpura-pura seperti orang yang benar-benar membutuhkan panggilan darurat sehingga anda harus berhati-hati. Suatu hari ada panggilan darurat masuk yang mengatakan kalau dia memiliki sebuah "flag". Carilah penelpon tersebut dan berhati-hati terhadap prank call karena dapat merusak informasi yang akan diperoleh!
+</br>
+Format flag = hology3{flag}
+</br>
+Author: aldifp01
+
+['/files/385e4eaa7643c969314f525399c7cc74/911.tar.gz?token=eyJ1c2VyX2lkIjo4NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzV9.X69yeA.eCaFFYB92LFqypw0ToS6p-YHs90']
