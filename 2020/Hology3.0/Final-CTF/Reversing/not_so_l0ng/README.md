@@ -15,6 +15,7 @@ Pada tantangan ini kita diberikan sebuah file binary [*not-so-l0ng*](not-so-l0ng
 Selama melakukan static analysis, kami menemukan beberapa instruksi disassembly yang kami duga adalah flag.
 
 Berikut ini adalah screenshot dari potongan kode disassembly dari program tersebut.
+
 ![sc1](ss/screenshot1.png)  ![sc2](ss/screenshot2.png)
 
 Jika diperhatikan keduanya memiliki instruksi dan opcode yang hampir sama dengan nilai karakter yang berbeda-beda.
