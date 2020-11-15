@@ -1,0 +1,9 @@
+PerSik
+
+Kami mendapatkan beberapa plaintext beserta ciphertext ini dari seorang operatif.
+</br>
+Flag format = hology3{}
+</br>
+Author: Mr. Grips
+
+['/files/3b7f74f00572e1b32823acc027cf5152/keygen.py?token=eyJ1c2VyX2lkIjo4NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzJ9.X69ydg.hA5cKxr95T0q8uA2fMSel0QV71w', '/files/0aba35fba6605df87c3508f5cdd4b7b5/Intercepted.zip?token=eyJ1c2VyX2lkIjo4NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzN9.X69ydg.sKdsRLaDUUpMclIZoX3wvtls4vY', '/files/290f1632ce5ef7626e3e7f9c4bb56a80/encrypt.py?token=eyJ1c2VyX2lkIjo4NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzR9.X69ydg.sUUDLDMqx-xVZnuvih66MlGzArw']

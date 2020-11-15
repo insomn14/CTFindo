@@ -1,0 +1,8 @@
+RSA CUP5
+
+Soal ini berisi cipertext, n, e
+</br>
+
+Author: SlimShady
+
+['/files/370289ae0b90d96a4586f8045dd08d03/data?token=eyJ1c2VyX2lkIjo4NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzF9.X69ydA.Obf44-D1j_VI2qRDx25LnahC01Q']

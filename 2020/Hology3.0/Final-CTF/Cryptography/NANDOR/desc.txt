@@ -1,0 +1,9 @@
+NANDOR
+
+Andi (bukan nama sebenarnya) merupakan seorang mahasiswa yang memiliki ketertarikan di bidang kriptografi. Kali ini dia ingin membuat "terobosan" dalam dunia kriptografi visual. Hal ini dengan cara membuat algoritme enkripsi gambar dengan menggunakan NOT, AND, dan OR saja! Tentunya, untuk menambah keamanan algoritmanya, ia melakukan enkripsi berlapis terhadap gambar tersebut. Andi pun menantang anda untuk mencari kelemahan algoritmanya sebelum dipublikasikan.
+
+format flag: flag dalam bentuk lowercase
+
+Author: Joule
+
+['/files/a259ea3bf5cb4c1c8807d65fec256998/nandor.tar.gz?token=eyJ1c2VyX2lkIjo4NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mzh9.X69ydQ.EmVMwe_5vBBzpJJjyjUyh3GPXag']
