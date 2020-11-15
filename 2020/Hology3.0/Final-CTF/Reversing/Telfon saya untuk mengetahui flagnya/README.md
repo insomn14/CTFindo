@@ -31,7 +31,7 @@ Masukan input yang benar!Penelpon : "Flag apa? apa yang anda bicarakan saya tida
 [1]    13026 abort (core dumped)  ./911.exe
 ```
 
-Saat melakukan static analysis kita dapat melihat ada banyak sekali fungsi `phone<num>_<num>` dengan num yang berbeda-beda. Setelah menghabisakan beberapa menit menggali, kami menemukan salah satu dari fungsi `phone<num>_<num>` yang mmiliki instruksi yang sama digunakan dengan tantangan yang sebelumnya [**"not_so_l0ng"**](../not_so_l0ng)
+Saat melakukan static analysis kita dapat melihat ada banyak sekali fungsi `phone<num>_<num>` dengan num yang berbeda-beda. Setelah menghabisakan beberapa menit menggali, kami menemukan salah satu dari fungsi `phone<num>_<num>` yang miliki instruksi yang sama digunakan dengan tantangan yang sebelumnya [**"not_so_l0ng"**](../not_so_l0ng)
 
 ![sc1](ss/screenshot1.png)  ![sc2](ss/screenshot2.png)
 
