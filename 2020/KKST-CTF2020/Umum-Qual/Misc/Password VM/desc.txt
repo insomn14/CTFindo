@@ -1,0 +1,17 @@
+Password VM - 1pts
+
+SHA1 dari password VMnya 
+
+**ca64b496863971ad2a94ce3d492dc7d0d604d7c7**
+
+Lalu password VM yang hilang adalah
+
+**6879d9f430?554b113292dfc94d7335?**
+
+Submit dengan format **KKST2020{}**
+
+https://mega.nz/file/I0RkTRZQ#R_NRBtiSSva52y-VwN5Dn9G6hzPRO_smOitlSg9cfoY
+
+ Hint: []
+
+[]
