@@ -1,0 +1,7 @@
+Siapa juga gak bisa matematika? - 915pts
+
+nc 140.82.48.126 50002
+
+ Hint: []
+
+[]

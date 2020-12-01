@@ -1,0 +1,7 @@
+Chat with Admin - 980pts
+
+Mau gak chat sama admin? Kamu udah nemu nomernya kan. Iya yang di situ. Chat admin dengan awalan `peserta~1` dan admin akan membalas dengan kecepatan super! Profile mimin pakai baju warna Merah ya! 
+
+ Hint: []
+
+[]

@@ -1,0 +1,21 @@
+SOAL :
+
+Diketahui p-panjang yang memiliki panjang 89 dan lebar 73 berapakah kelilingnya: 
+K = 2 x (p+l)
+
+Diketahui p-panjang yang memiliki panjang 91 dan lebar 34 berapakah luasnya:
+L = p x l
+
+Diketahui persegi yang salah satu sisinya adalah 134 berapakah kelilingnya: 
+
+
+Diketahui persegi yang salah satu sisinya adalah 71 berapakah luasnya: 
+
+
+Diketahui trapesium memiliki sisi A = 20 lalu sisi B = 36 dan tinggi 32 berapakah luasnya:
+L = 1/2 x (A x B)  x 8,5
+L = 1/2 x (A x B)  x tinggi
+L = (A+B)*T/2
+
+Diketahui segitiga dengan alas 16 dan tinggi 22 lalu berapakah luasnya:
+L = 0.5 * A * T
