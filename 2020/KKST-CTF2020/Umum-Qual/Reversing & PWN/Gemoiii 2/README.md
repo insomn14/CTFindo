@@ -12,7 +12,7 @@
 ```
 
 - `00000000` 16 bytes pertama adalah nilai dari `rand()` yang ditulis oleh fungsi `fwrite()`.
-- `00000010` 16 bytes berikutnya adalah tempat key disimpan setelah dixor dengan nilai `rand` lalu ditulisdengan fungsi `fputs()`.
+- `00000010` 16 bytes berikutnya adalah tempat key disimpan setelah dixor dengan nilai `rand()` lalu ditulis dengan fungsi `fputs()`.
 
 ## Recovery Key :
 ```
@@ -24,6 +24,9 @@ b'v3ry_s3cur3_k3y\xfc'
 ```
 
 ## Dump Encrypted Flag:
+- Selama proses enkripsi berlangsung setiap karakter pada flag akan dixor dengan nilai acak.
+- Setiap karakter hasil xor akan pisah dengan nilai `rand()`.
+- Skip setiap 1 byte yang ada pada `out` file untuk mendapatkan flag yang telah terenkripsi.
 ```
 >>> f = open('out', 'rb').read()
 >>> enc_flag = [f[32:][i] for i in range(0, len(f[32:]), 2)]
@@ -43,9 +46,9 @@ b'v3ry_s3cur3_k3y\xfc'
 ```
 encrypt v3ry_s3cur3_k3y enc_flag.txt outfile
 ```
-2. Set breakpoint pada alamat `0x402DC9`
-3. Selama melakukan proses debugging ubah nilai register `al` dengan 16 bytes yang ada pada file `out` setiap kali hit breakpoint.
-4. Jalankan debugging sampai processnya selesai.
+2. Set breakpoint pada alamat `0000000000402DD1` dan tekan `<F9>`.
+3. Setelah hit breakpoint ubah 16 bytes pada `[rbx-1]` dengan 16 bytes `rand()` pada file `out` sebelumnya.
+4.  Kemudian tekan `<F9>` untuk menjalankan process debugging sampai selesai. 
 
 ## Hasil Output File Debugging:
 ```
