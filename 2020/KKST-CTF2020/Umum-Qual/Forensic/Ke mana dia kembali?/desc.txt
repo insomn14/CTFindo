@@ -1,0 +1,7 @@
+Ke mana dia kembali? - 1000pts
+
+Setelah melakukan analisa pada SOC kami, ada aktivitas mencurigakan dari VM yang melakukan Back Connect ke server lain. Dia sepertinya menggunakan cara tradisional untuk melakukan Back Connect. Jadi di alamat IP mana dan PORT berapa attacker melakukan Back Connect? Submit dengan KKST2020{ip:port}. Kamu hanya punya kesempatakan 3 kali submit saja!
+
+ Hint: []
+
+[]

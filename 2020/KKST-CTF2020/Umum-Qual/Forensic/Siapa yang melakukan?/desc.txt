@@ -1,0 +1,7 @@
+Siapa yang melakukan? - 1000pts
+
+VM yang telah diberikan adalah VM yang telah di-Hack oleh seseorang yang berhati kurang baik. Kami mengidentifikasi bahwa Attacker menggunakan Modul **auxiliary/scanner/ssh/ssh_login**. Dapatkah kamu mengindentifkasi log-log yang berkaitan dengan serangan dengan modul tersebut?
+
+ Hint: []
+
+[]

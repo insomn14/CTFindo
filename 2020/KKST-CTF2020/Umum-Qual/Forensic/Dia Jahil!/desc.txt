@@ -1,0 +1,7 @@
+Dia Jahil! - 1000pts
+
+Kami menyadari, attacker ini cukup usil dengan merubah salah satu file web kami. Web masih berjalan dengan normal bagi kami, namun kami kawathir ada file yang berubah. Tolong carikan file apa yang berubah itu. Submit dengan KKST2020{namafile}. Kamu hanya punya 2 kali kesempatan untuk Submit.
+
+ Hint: []
+
+[]

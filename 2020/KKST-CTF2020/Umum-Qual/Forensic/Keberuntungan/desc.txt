@@ -1,0 +1,7 @@
+Keberuntungan - 1000pts
+
+Attacker sudah tertangkap, kami mengintrogasinya. Dan kami terkaget-kaget saat mendengar dia menitipkan sebuah Backdoor Portable Executable di VM tersebut. Bantu kami menganalisa di mana tempat dia menyimpan Backdoor tersebut. Dan beritau kami server ip dan port mana yang dia gunakan di backdoor tersebut. Submit dengan KKST2020{pathfile:ip:port}. Kamu hanya punya 5 kali kesempatan untuk Submit.
+
+ Hint: []
+
+[]
