@@ -1,0 +1,11 @@
+~/K/Reversing & PWN/License Key ❯ nc -v 45.77.254.239 30003
+Warning: Host 45.77.254.239 isn't authoritative! (direct lookup failed)
+45.77.254.239 30003 (amicon-fpsu-ra) open
+License Validator
+[+] Masukan Key yang kamu punya: rxyz-alyz-vxyz-aryz
+Bagus sekali masukan lagi!
+[+] Masukan Key yang kamu punya (2): AB#D?AGHIJ
+Kalau ini benar, aku beri flag!!
+[+] Masukan Key yang kamu punya (3): abcdefghijklmnopqrstuvwxyzABCDEFG
+KKST2020{reverse_binary_like_a_B0000s}
+

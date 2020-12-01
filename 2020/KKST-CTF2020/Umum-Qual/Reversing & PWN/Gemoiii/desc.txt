@@ -1,0 +1,13 @@
+Gemoiii - 1000pts
+
+Gemoiii atau yang biasanya artinya adalah Gemas. Adalah sebuah ransome yang dibuat ala kadarnya dengan bahasa pemrogramman PHP.
+
+**WARNING!!!**
+
+**SEGALA SESUATU KERUSAKAN ATAU HAL HAL YANG TERJADI KARENA GEMAS RANSOME BUKAN TANGGUNG JAWAB PANITIA KKST. LAKUKAN DENGAN HATI-HATI**
+
+Ehe.
+
+ Hint: []
+
+['/files/f61a5569d9cf978d0165eb37d2c74f47/flag.gemas?token=eyJ1c2VyX2lkIjozMDksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjR9.X7ztlg.2RWsZojFS2xVZQSqUxvwjsYj6kI', '/files/b75f3232503e2239de0f43887de13397/pesertanih.php?token=eyJ1c2VyX2lkIjozMDksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjV9.X7ztlg.zUTMR80HHGeN0fl_44C-t7GnLJE']

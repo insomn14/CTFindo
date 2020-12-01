@@ -1,0 +1,16 @@
+- len input 19
+- split 4 by -
+input = abcd-fghi-klmn-pqrs
+
+v4 = (len(inp) + 86) * len(inp)
+
+>>> ord('-')*3
+135
+>>> 1995 - 135 
+1860
+
+first_inp = rxyz-alyz-vxyz-aryz
+----
+sec_inp = AB#D?AGHIJ
+----
+thrd_inp = abcdefghijklmnopqrstuvwxyzABCDEFG
