@@ -1,18 +1,18 @@
 # Arkavidia 7.0
 ***
 ## [Miscellaneous](/2021/Arkavidia7/Miscellaneous)
-- Welcome to Arkavidia 7.0 [**Solved**](/2021/Arkavidia7/Arkavidia7%2e0_Rahasia%2epdf) 
-- Sad and Lonely Friend [**Solved**](/2021/Arkavidia7/Arkavidia7%2e0_Rahasia%2epdf)
-- OSINT-1 [**Solved**](/2021/Arkavidia7/Arkavidia7%2e0_Rahasia%2epdf)
-- isekai [**Solved**](/2021/Arkavidia7/Arkavidia7%2e0_Rahasia%2epdf)
+- Welcome to Arkavidia 7.0 **Solved**
+- Sad and Lonely Friend **Solved**
+- OSINT-1 **Solved**
+- isekai **Solved**
 
 ## [Reverse Engineering](/2021/Arkavidia7/Reverse%20Engineering)
-- aksarajawa [**Solved**](/2021/Arkavidia7/Reverse%20Engineering/aksarajawa/README.md)
-- Arcadevidia [**Solved**](/2021/Arkavidia7/Reverse%20Engineering/Arcadevidia/README.md)
-- Oncle Jazz [**Solved**](/2021/Arkavidia7/Reverse%20Engineering/Oncle%20Jazz/README.md)
+- aksarajawa **Solved**
+- Arcadevidia **Solved**
+- Oncle Jazz **Solved**
 
 ## [Forensics](/2021/Arkavidia7/Forensics)
-- KawaiiMetal [**Solved**](/2021/Arkavidia7/Arkavidia7%2e0_Rahasia%2epdf)
+- KawaiiMetal **Solved**
 - I Did A Thing Unsolved
 - It's me Unsolved
 
