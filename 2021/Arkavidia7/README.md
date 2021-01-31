@@ -12,9 +12,9 @@
 - Oncle Jazz [**Solved**](/2021/Arkavidia7/Reverse%20Engineering/Oncle%20Jazz/README.md)
 
 ## [Forensics](/2021/Arkavidia7/Forensics)
+- KawaiiMetal [**Solved**](/2021/Arkavidia7/Arkavidia7%2e0_Rahasia%2epdf)
 - I Did A Thing Unsolved
 - It's me Unsolved
-- KawaiiMetal Unsolved
 
 ## [Crypto](/2021/Cryptography/Crypto)
 - cqler Unsolved
