@@ -1,0 +1,13 @@
+cqler - 500pts
+
+After breaking the pqrsen code, the box is unlocked. You open the box just to find an ancient machine. It can encrypt and hash something?
+
+`nc slave3.ctf.arkavidia.id 10023`
+
+*Author: haverzard*
+
+attachment: https://drive.google.com/file/d/18JKH6iqmEaCNiecsGLpVSXoqkfkhhgi0/view?usp=sharing
+
+ Hint: []
+
+[]

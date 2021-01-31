@@ -1,0 +1,16 @@
+re;union - 500pts
+
+Ahh, we haven't seen you in a while, agent 007. We have some missions for you. We don't know whether each of them is related or not. Here, you can use this tool to communicate with us.
+
+`nc slave3.ctf.arkavidia.id 10022`
+
+*Author: nightmare*
+
+attachment: https://drive.google.com/file/d/1YLQHV1fQWZ5nxABVvBd_7-D8KnhMebZm/view?usp=sharing
+
+
+
+ Hint: What is the decrypt function for? Decryption, authentication, or something else?
+Do you know that you can craft special encrypted data without decrypting the ciphertext?
+
+[]

@@ -1,0 +1,13 @@
+isekai - 212pts
+
+Melepas penat CTF dengan main game isekai dulu.
+
+Flag dimasukkan ke dalam format `Arkav7{flag}`
+
+*Author: girvinjunod*
+
+attachment: https://drive.google.com/file/d/1r7E-p8vXuhdjwWA76CRFu3AfjU_YXQuh/view?usp=sharing
+
+ Hint: []
+
+[]

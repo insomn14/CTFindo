@@ -1,0 +1,16 @@
+qratz2048 - 500pts
+
+Last year, pqrsen wasn't solved using the intended solution because I forgot to patch & put constraints to my challenge when doing some changes. So I create a cryptosystem based on it.
+
+Hopefully, it's working this time! And don't even try to bruteforce 15 alphanumeric & case-sensitive chars!
+
+Unrelated:
+![meme.png](/files/43d6c97e276ce8cd0d1f9fe3fac0a159/meme.png)
+
+*Author: haverzard*
+
+attachment: https://drive.google.com/file/d/1MofwjSaOSVaOrnsVAM9uiDlCKSSSbXxY/view?usp=sharing
+
+ Hint: []
+
+[]

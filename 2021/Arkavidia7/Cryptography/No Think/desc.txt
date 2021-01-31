@@ -1,0 +1,13 @@
+No Think - 500pts
+
+Do not think too hard.
+
+`nc slave3.ctf.arkavidia.id 10021`
+
+*Author: haverzard*
+
+attachment: https://drive.google.com/file/d/1rP8lpgRJw5CAApb7cMP03OABbXLgQwH0/view?usp=sharing
+
+ Hint: []
+
+[]

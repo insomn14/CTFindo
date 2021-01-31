@@ -1,0 +1,15 @@
+Love Whisper - 500pts
+
+Can you hear it?
+
+`nc slave1.ctf.arkavidia.id 10004`
+
+Unrelated: https://youtu.be/lnXXfYA91Y8
+
+*Author: Fraglantia*
+
+attachment: https://drive.google.com/file/d/1z-CQJvvb0ba4rnPzHTbGsU2OMhKiW-fs/view?usp=sharing
+
+ Hint: []
+
+[]

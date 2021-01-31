@@ -1,0 +1,13 @@
+cells - 500pts
+
+Recite your baseline...
+
+`nc slave1.ctf.arkavidia.id 10002`
+
+*Author : alphaville*
+
+attachment: https://drive.google.com/file/d/19gPubfqfFT2tR1VgzPIbRxgOmbwjf41Z/view?usp=sharing
+
+ Hint: []
+
+[]
