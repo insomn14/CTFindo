@@ -1,7 +1,5 @@
 # Arkavidia 7.0
 
-![arkav.png](/2021/Arkavidia7/arkav.png)
-
 ***
 ## [Miscellaneous](/2021/Arkavidia7/Miscellaneous)
 - Welcome to Arkavidia 7.0 [**Solved**](/2021/Arkavidia7/Arkavidia7%2e0_Rahasia%2epdf) 
